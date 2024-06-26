@@ -1,0 +1,1 @@
+Ferramenta básica em bash para scanear hosts ativos na rede
