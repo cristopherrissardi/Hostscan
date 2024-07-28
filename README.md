@@ -2,7 +2,7 @@
 
 Ferramenta para fazer a verificação de hosts ativos na rede.
 
-![[Pasted image 20240728013142.png]]
+![image](https://github.com/user-attachments/assets/3482fb36-fed1-428e-b0ad-82e0ecc1c0ed)
 
 Script básico para fazer a verificação de hosts ativos na rede com base na verificação de um `ping` para medir respostas e retornar com a mensagem baseada no protocolo `ICMP`.
 
